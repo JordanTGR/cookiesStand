@@ -1,0 +1,9 @@
+:root{
+    --foont-encabezados: "Righteous" , `sans-serif;
+    --color-principal:salmon ;
+    --color-secundario:`salmon ;
+}
+h1{
+    font-family: var(--foont-encabezados);
+    color:var(--color-principal)
+}
